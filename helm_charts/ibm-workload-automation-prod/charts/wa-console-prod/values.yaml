@@ -6,7 +6,7 @@
 ####################################################################
 global:
   # set to "accept" to accept the license
-  license: "not accepted"
+  license: "accept"
   serviceAccountName:
   customPluginImageName: 
   pluginImageName: cp.icr.io/cp/ibm-workload-automation-plugins:10.1.0.00.20220722

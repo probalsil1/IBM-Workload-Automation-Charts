@@ -6,7 +6,7 @@
 ####################################################################
 global:
   # set to "accept" to accept the license
-  license: "not accepted"
+  license: "accept"
   serviceAccountName:
   enablePrometheus: true
   customPluginImageName: 

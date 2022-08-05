@@ -6,7 +6,7 @@
 # Use, duplication or disclosure restricted by GSA ADP Schedule
 # *******************************************************************************
 global:
-  license: notaccepted
+  license: accept
   serviceAccountName: wauser
   aidaEngineLogLevel: "INFO"
   redisPwd: "default"

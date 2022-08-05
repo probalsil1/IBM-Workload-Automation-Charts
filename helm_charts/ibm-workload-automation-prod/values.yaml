@@ -6,7 +6,7 @@
 ####################################################################
 global:
   language: en
-  license: not accepted
+  license: accept
   serviceAccountName: wauser
   aidaEngineLogLevel: "INFO"
   redisPwd: "default"
